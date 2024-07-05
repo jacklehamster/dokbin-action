@@ -1,0 +1,15 @@
+name: 'Package rename'
+description: 'Rename repo in package.json'
+branding:
+  icon: 'sun'  
+  color: 'yellow'
+inputs:
+  file:
+    description: 'File to modify'
+    default: 'package.json'
+outputs:
+  none:
+    description: 'No output'
+runs:
+  using: 'node16'
+  main: 'index.cjs'
