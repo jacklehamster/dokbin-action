@@ -1,5 +1,5 @@
 {
-   "name": "package-rename-action",
+   "name": "dokbin-action",
    "version": "1.0.0",
    "description": "",
    "main": "index.cjs",
@@ -9,15 +9,15 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/jacklehamster/package-rename-action.git"
+      "url": "git+https://github.com/jacklehamster/dokbin-action.git"
    },
    "keywords": [],
    "author": "",
    "license": "ISC",
    "bugs": {
-      "url": "https://github.com/jacklehamster/package-rename-action/issues"
+      "url": "https://github.com/jacklehamster/dokbin-action/issues"
    },
-   "homepage": "https://github.com/jacklehamster/package-rename-action#readme",
+   "homepage": "https://github.com/jacklehamster/dokbin-action#readme",
    "dependencies": {
       "@actions/core": "^1.9.1",
       "@actions/github": "^2.2.0",
